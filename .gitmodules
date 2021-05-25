@@ -1,0 +1,9 @@
+[submodule "jsonlab"]
+	path = jsonlab
+	url = https://github.com/fangq/jsonlab
+[submodule "fine"]
+	path = fine
+	url = https://github.com/bcmcpher/fine.git
+[submodule "vistasoft"]
+	path = vistasoft
+	url = https://github.com/vistalab/vistasoft

@@ -1,0 +1,8 @@
+# Temporary MATLAB files
+*.m~
+*.json~
+
+# outputs to not track
+label.json
+conmat
+networks
